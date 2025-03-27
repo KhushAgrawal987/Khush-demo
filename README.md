@@ -1,3 +1,3 @@
 # Khush-demo
 This is my first Git repo
-This is made by me
+This is made by me yani Khush
